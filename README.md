@@ -9,8 +9,6 @@ You can select the desired PHP version.
 - ✅ 8.3
 - ✅ 8.2
 - ✅ 8.1 [Only critical security updates]
-- ✅ 8.0 [EOL]
-- ✅ 7.3 [EOL]
 
 https://www.php.net/supported-versions.php
 
